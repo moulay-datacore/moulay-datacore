@@ -2,7 +2,7 @@
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data
 - 💞️ I’m looking to collaborate on data
-- 📫 How to reach me moulay.chihani@doctolib.com
+- 📫 How to reach me moulay.chihani@gmail.com
 
 <!---
 moulay-datacore/moulay-datacore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
